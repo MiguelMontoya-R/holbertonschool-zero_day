@@ -1,1 +1,2 @@
-This text is to make clear all the concepts for the git and github to control version of my commits
+#What's this?
+First project for Holberton School, the basics commands to use git, emacs, ubuntu in a virtual machine 
