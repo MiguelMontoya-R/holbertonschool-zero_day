@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+This text is to make clear all the concepts for the git and github to control version of my commits
