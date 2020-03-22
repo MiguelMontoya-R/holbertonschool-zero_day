@@ -1,6 +1,6 @@
 # Vagrant
 
-In this directory are the basic commands to turn on the vagrant box and how to shut down, also a few things about how to install it in our PC
+In this directory are the basic commands use emacs text editor, also a few things about how to install it in vagrant box
 
 ## Requirements
 
