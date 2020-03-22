@@ -1,4 +1,4 @@
-# Vagrant
+# Emacs
 
 In this directory are the basic commands use emacs text editor, also a few things about how to install it in vagrant box
 
